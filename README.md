@@ -1,6 +1,14 @@
 # VCS project - Group 15
 Final project for Vision and Cognitive System
 
+
+
+
+
+
+
+
+
 ## Requirements
 - numpy
 - opencv-python
